@@ -4,7 +4,7 @@ echo -e "'fish' 'conky' 'xfce4' 'wal'"
 while true; do
     read -p "Install? y/n " yn
     case $yn in
-        [Yy]* ) sudo apt install fish conky xfce4 xfce4-goodies python python3-pip;  pip install pywal --break-system-packages; break;;
+        [Yy]* ) sudo apt install fish conky xfce4 xfce4-goodies python3 python3-pip;  pip install pywal --break-system-packages; break;;
         [Nn]* ) echo "proceeding"; sleep 2s; break;;
    esac
 done
