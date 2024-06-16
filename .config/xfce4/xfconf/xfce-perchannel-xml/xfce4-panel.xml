@@ -64,6 +64,8 @@
     <property name="plugin-6" type="string" value="systray">
       <property name="square-icons" type="bool" value="true"/>
       <property name="known-legacy-items" type="array">
+        <value type="string" value="wi-fi network connection “arafat&amp;aryan” active: arafat&amp;aryan (47%)"/>
+        <value type="string" value="no network connection"/>
         <value type="string" value="wi-fi network connection “arafat&amp;aryan” active: arafat&amp;aryan (32%)"/>
         <value type="string" value="wi-fi network connection “arafat&amp;aryan” active: arafat&amp;aryan (49%)"/>
         <value type="string" value="wi-fi network connection “arafat&amp;aryan” active: arafat&amp;aryan (37%)"/>
@@ -81,7 +83,7 @@
     <property name="plugin-8" type="string" value="pulseaudio">
       <property name="enable-keyboard-shortcuts" type="bool" value="true"/>
       <property name="show-notifications" type="bool" value="true"/>
-      <property name="mpris-players" type="string" value="firefox.instance_1_46;firefox.instance_1_76"/>
+      <property name="mpris-players" type="string" value="firefox.instance_1_41;firefox.instance_1_46;firefox.instance_1_76"/>
     </property>
     <property name="plugin-9" type="string" value="power-manager-plugin"/>
     <property name="plugin-10" type="string" value="notification-plugin"/>
