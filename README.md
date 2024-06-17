@@ -8,5 +8,3 @@ Collection of my .config directory and such. Will include but not limited to:
 - neofetch
 - conky
 - xfce4-term
- 
-![](https://github.com/ioresolution/dotfiles/blob/main/preview.png)
